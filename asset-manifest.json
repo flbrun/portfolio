@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/flbrun.github.io/static/css/main.137c2e8d.css",
-    "main.js": "/flbrun.github.io/static/js/main.ea46f57e.js",
-    "static/js/787.1ed0c42c.chunk.js": "/flbrun.github.io/static/js/787.1ed0c42c.chunk.js",
-    "static/media/home-main.svg": "/flbrun.github.io/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
-    "static/media/about.png": "/flbrun.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/flbrun.github.io/static/media/Soumyajit_Behera-BIT_MESRA.51bf91e4644d2514e97b.pdf",
-    "static/media/rasa.jpeg": "/flbrun.github.io/static/media/rasa.c842aa5ee981dc22b06a.jpeg",
-    "static/media/pre.svg": "/flbrun.github.io/static/media/pre.4410c5baaa673cc131da.svg",
-    "index.html": "/flbrun.github.io/index.html",
-    "main.137c2e8d.css.map": "/flbrun.github.io/static/css/main.137c2e8d.css.map",
-    "main.ea46f57e.js.map": "/flbrun.github.io/static/js/main.ea46f57e.js.map",
-    "787.1ed0c42c.chunk.js.map": "/flbrun.github.io/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/static/css/main.c1b8a51b.css",
+    "main.js": "/static/js/main.c728c6f6.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/static/media/Soumyajit_Behera-BIT_MESRA.51bf91e4644d2514e97b.pdf",
+    "static/media/rasa.jpeg": "/static/media/rasa.c842aa5ee981dc22b06a.jpeg",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.c1b8a51b.css.map": "/static/css/main.c1b8a51b.css.map",
+    "main.c728c6f6.js.map": "/static/js/main.c728c6f6.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.137c2e8d.css",
-    "static/js/main.ea46f57e.js"
+    "static/css/main.c1b8a51b.css",
+    "static/js/main.c728c6f6.js"
   ]
 }
