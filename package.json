@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
-  "homepage": "https://flbrun.github.io/flbrun.github.io",
   "version": "0.1.0",
+  "homepage": "https://flbrun.github.io/portfolio",
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",

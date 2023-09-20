@@ -1,6 +1,5 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { ImPointRight } from "react-icons/im";
 
 function AboutCard() {
   return (
@@ -10,7 +9,7 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Florian Brunner </span>
             from <span className="purple"> Germany.</span>
-            <br /> I am a Full Stack Software Engineer with a Business Informatics Degree (BSc.).
+            <br /> I am a Full Stack Software Engineer with a Business Informatics Degree (B.Sc.).
             <br />
             Additionally, I am currently employed as a software developer at
             Deutsche Telekom IT GmbH.
